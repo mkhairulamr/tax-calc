@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Pajak Badan",
+  "description": "Kalkulator interaktif PPh Badan PT, CV, dan PT Perorangan Indonesia menyesuaikan UU HPP dan PP Nomor 20 Tahun 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
